@@ -425,7 +425,7 @@ print("   The Entries for Ratio 0 is: ", numforR0)
 print("   The Average Salary for Ratio 50 is: ", sumSalary_R50/numforR50)
 print("   The Entries for Ratio 50 is: ", numforR50)
 print("   The Average Salary for Ratio 100 is: ", sumSalary_RF/numforRF)
-print("   The Entries for Ratio 0 is: ", numforRF)
+print("   The Entries for Ratio 100 is: ", numforRF)
 print(
     "################################################################################################################")
 print()
