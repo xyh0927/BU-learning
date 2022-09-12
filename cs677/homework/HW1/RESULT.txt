@@ -1,0 +1,644 @@
+Q2:
+ In 2020, the Average Salary is  95813.0
+ In 2021, the Average Salary is  99853.79262672811
+ In 2022, the Average Salary is  124522.00628930818
+################################################################################################################
+
+Q3:
+ The highest salary year is :  2022
+ The lowest salary year is :  2020
+################################################################################################################
+
+Q4:
+The Average Salary of  Data Scientist with Entry-Level is  55330.90909090909
+The Average Salary of  Data Scientist with Mid-Level is  82039.13333333333
+The Average Salary of  Data Scientist with Senior-Level is  152971.0163934426
+The Average Salary of  Data Scientist with Executive-Level is  0
+
+The Average Salary of  Machine Learning Scientist with Entry-Level is  225000.0
+The Average Salary of  Machine Learning Scientist with Mid-Level is  109325.0
+The Average Salary of  Machine Learning Scientist with Senior-Level is  201666.66666666666
+The Average Salary of  Machine Learning Scientist with Executive-Level is  0
+
+The Average Salary of  Big Data Engineer with Entry-Level is  30703.333333333332
+The Average Salary of  Big Data Engineer with Mid-Level is  33537.0
+The Average Salary of  Big Data Engineer with Senior-Level is  111535.5
+The Average Salary of  Big Data Engineer with Executive-Level is  0
+
+The Average Salary of  Product Data Analyst with Entry-Level is  0
+The Average Salary of  Product Data Analyst with Mid-Level is  13036.0
+The Average Salary of  Product Data Analyst with Senior-Level is  0
+The Average Salary of  Product Data Analyst with Executive-Level is  0
+
+The Average Salary of  Machine Learning Engineer with Entry-Level is  86996.33333333333
+The Average Salary of  Machine Learning Engineer with Mid-Level is  74466.58333333333
+The Average Salary of  Machine Learning Engineer with Senior-Level is  131176.0
+The Average Salary of  Machine Learning Engineer with Executive-Level is  0
+
+The Average Salary of  Data Analyst with Entry-Level is  53960.666666666664
+The Average Salary of  Data Analyst with Mid-Level is  71699.20689655172
+The Average Salary of  Data Analyst with Senior-Level is  111922.62962962964
+The Average Salary of  Data Analyst with Executive-Level is  120000.0
+
+The Average Salary of  Lead Data Scientist with Entry-Level is  0
+The Average Salary of  Lead Data Scientist with Mid-Level is  115000.0
+The Average Salary of  Lead Data Scientist with Senior-Level is  115285.0
+The Average Salary of  Lead Data Scientist with Executive-Level is  0
+
+The Average Salary of  Business Data Analyst with Entry-Level is  79551.0
+The Average Salary of  Business Data Analyst with Mid-Level is  74784.66666666667
+The Average Salary of  Business Data Analyst with Senior-Level is  0
+The Average Salary of  Business Data Analyst with Executive-Level is  0
+
+The Average Salary of  Lead Data Engineer with Entry-Level is  0
+The Average Salary of  Lead Data Engineer with Mid-Level is  56000.0
+The Average Salary of  Lead Data Engineer with Senior-Level is  166040.0
+The Average Salary of  Lead Data Engineer with Executive-Level is  118187.0
+
+The Average Salary of  Lead Data Analyst with Entry-Level is  0
+The Average Salary of  Lead Data Analyst with Mid-Level is  53304.5
+The Average Salary of  Lead Data Analyst with Senior-Level is  170000.0
+The Average Salary of  Lead Data Analyst with Executive-Level is  0
+
+The Average Salary of  Data Engineer with Entry-Level is  58933.5
+The Average Salary of  Data Engineer with Mid-Level is  85985.6603773585
+The Average Salary of  Data Engineer with Senior-Level is  137035.84126984127
+The Average Salary of  Data Engineer with Executive-Level is  245500.0
+
+The Average Salary of  Data Science Consultant with Entry-Level is  62640.8
+The Average Salary of  Data Science Consultant with Mid-Level is  103000.0
+The Average Salary of  Data Science Consultant with Senior-Level is  0
+The Average Salary of  Data Science Consultant with Executive-Level is  69741.0
+
+The Average Salary of  BI Data Analyst with Entry-Level is  32136.0
+The Average Salary of  BI Data Analyst with Mid-Level is  78086.33333333333
+The Average Salary of  BI Data Analyst with Senior-Level is  0
+The Average Salary of  BI Data Analyst with Executive-Level is  150000.0
+
+The Average Salary of  Director of Data Science with Entry-Level is  0
+The Average Salary of  Director of Data Science with Mid-Level is  0
+The Average Salary of  Director of Data Science with Senior-Level is  168000.0
+The Average Salary of  Director of Data Science with Executive-Level is  199586.33333333334
+
+The Average Salary of  Research Scientist with Entry-Level is  86132.0
+The Average Salary of  Research Scientist with Mid-Level is  136498.14285714287
+The Average Salary of  Research Scientist with Senior-Level is  88859.4
+The Average Salary of  Research Scientist with Executive-Level is  0
+
+The Average Salary of  Machine Learning Manager with Entry-Level is  0
+The Average Salary of  Machine Learning Manager with Mid-Level is  0
+The Average Salary of  Machine Learning Manager with Senior-Level is  117104.0
+The Average Salary of  Machine Learning Manager with Executive-Level is  0
+
+The Average Salary of  Data Engineering Manager with Entry-Level is  0
+The Average Salary of  Data Engineering Manager with Mid-Level is  59303.0
+The Average Salary of  Data Engineering Manager with Senior-Level is  159000.0
+The Average Salary of  Data Engineering Manager with Executive-Level is  79833.0
+
+The Average Salary of  Machine Learning Infrastructure Engineer with Entry-Level is  0
+The Average Salary of  Machine Learning Infrastructure Engineer with Mid-Level is  54217.5
+The Average Salary of  Machine Learning Infrastructure Engineer with Senior-Level is  195000.0
+The Average Salary of  Machine Learning Infrastructure Engineer with Executive-Level is  0
+
+The Average Salary of  ML Engineer with Entry-Level is  18974.5
+The Average Salary of  ML Engineer with Mid-Level is  137025.0
+The Average Salary of  ML Engineer with Senior-Level is  256000.0
+The Average Salary of  ML Engineer with Executive-Level is  0
+
+The Average Salary of  AI Scientist with Entry-Level is  21987.25
+The Average Salary of  AI Scientist with Mid-Level is  160000.0
+The Average Salary of  AI Scientist with Senior-Level is  55000.0
+The Average Salary of  AI Scientist with Executive-Level is  0
+
+The Average Salary of  Computer Vision Engineer with Entry-Level is  54536.333333333336
+The Average Salary of  Computer Vision Engineer with Mid-Level is  0
+The Average Salary of  Computer Vision Engineer with Senior-Level is  34302.333333333336
+The Average Salary of  Computer Vision Engineer with Executive-Level is  0
+
+The Average Salary of  Principal Data Scientist with Entry-Level is  0
+The Average Salary of  Principal Data Scientist with Mid-Level is  151000.0
+The Average Salary of  Principal Data Scientist with Senior-Level is  187939.4
+The Average Salary of  Principal Data Scientist with Executive-Level is  416000.0
+
+The Average Salary of  Data Science Manager with Entry-Level is  0
+The Average Salary of  Data Science Manager with Mid-Level is  200000.0
+The Average Salary of  Data Science Manager with Senior-Level is  149994.2
+The Average Salary of  Data Science Manager with Executive-Level is  0
+
+The Average Salary of  Head of Data with Entry-Level is  0
+The Average Salary of  Head of Data with Mid-Level is  32974.0
+The Average Salary of  Head of Data with Senior-Level is  151419.5
+The Average Salary of  Head of Data with Executive-Level is  232500.0
+
+The Average Salary of  3D Computer Vision Researcher with Entry-Level is  0
+The Average Salary of  3D Computer Vision Researcher with Mid-Level is  5409.0
+The Average Salary of  3D Computer Vision Researcher with Senior-Level is  0
+The Average Salary of  3D Computer Vision Researcher with Executive-Level is  0
+
+The Average Salary of  Data Analytics Engineer with Entry-Level is  20000.0
+The Average Salary of  Data Analytics Engineer with Mid-Level is  110000.0
+The Average Salary of  Data Analytics Engineer with Senior-Level is  64598.5
+The Average Salary of  Data Analytics Engineer with Executive-Level is  0
+
+The Average Salary of  Applied Data Scientist with Entry-Level is  110037.0
+The Average Salary of  Applied Data Scientist with Mid-Level is  105619.0
+The Average Salary of  Applied Data Scientist with Senior-Level is  278500.0
+The Average Salary of  Applied Data Scientist with Executive-Level is  0
+
+The Average Salary of  Marketing Data Analyst with Entry-Level is  0
+The Average Salary of  Marketing Data Analyst with Mid-Level is  0
+The Average Salary of  Marketing Data Analyst with Senior-Level is  88654.0
+The Average Salary of  Marketing Data Analyst with Executive-Level is  0
+
+The Average Salary of  Cloud Data Engineer with Entry-Level is  0
+The Average Salary of  Cloud Data Engineer with Mid-Level is  89294.0
+The Average Salary of  Cloud Data Engineer with Senior-Level is  160000.0
+The Average Salary of  Cloud Data Engineer with Executive-Level is  0
+
+The Average Salary of  Financial Data Analyst with Entry-Level is  100000.0
+The Average Salary of  Financial Data Analyst with Mid-Level is  450000.0
+The Average Salary of  Financial Data Analyst with Senior-Level is  0
+The Average Salary of  Financial Data Analyst with Executive-Level is  0
+
+The Average Salary of  Computer Vision Software Engineer with Entry-Level is  110000.0
+The Average Salary of  Computer Vision Software Engineer with Mid-Level is  95746.0
+The Average Salary of  Computer Vision Software Engineer with Senior-Level is  0
+The Average Salary of  Computer Vision Software Engineer with Executive-Level is  0
+
+The Average Salary of  Director of Data Engineering with Entry-Level is  0
+The Average Salary of  Director of Data Engineering with Mid-Level is  0
+The Average Salary of  Director of Data Engineering with Senior-Level is  156738.0
+The Average Salary of  Director of Data Engineering with Executive-Level is  0
+
+The Average Salary of  Data Science Engineer with Entry-Level is  0
+The Average Salary of  Data Science Engineer with Mid-Level is  40189.0
+The Average Salary of  Data Science Engineer with Senior-Level is  93610.5
+The Average Salary of  Data Science Engineer with Executive-Level is  0
+
+The Average Salary of  Principal Data Engineer with Entry-Level is  0
+The Average Salary of  Principal Data Engineer with Mid-Level is  0
+The Average Salary of  Principal Data Engineer with Senior-Level is  192500.0
+The Average Salary of  Principal Data Engineer with Executive-Level is  600000.0
+
+The Average Salary of  Machine Learning Developer with Entry-Level is  100000.0
+The Average Salary of  Machine Learning Developer with Mid-Level is  78791.0
+The Average Salary of  Machine Learning Developer with Senior-Level is  78791.0
+The Average Salary of  Machine Learning Developer with Executive-Level is  0
+
+The Average Salary of  Applied Machine Learning Scientist with Entry-Level is  31875.0
+The Average Salary of  Applied Machine Learning Scientist with Mid-Level is  178800.0
+The Average Salary of  Applied Machine Learning Scientist with Senior-Level is  0
+The Average Salary of  Applied Machine Learning Scientist with Executive-Level is  0
+
+The Average Salary of  Data Analytics Manager with Entry-Level is  0
+The Average Salary of  Data Analytics Manager with Mid-Level is  0
+The Average Salary of  Data Analytics Manager with Senior-Level is  127134.28571428571
+The Average Salary of  Data Analytics Manager with Executive-Level is  0
+
+The Average Salary of  Head of Data Science with Entry-Level is  0
+The Average Salary of  Head of Data Science with Mid-Level is  110000.0
+The Average Salary of  Head of Data Science with Senior-Level is  0
+The Average Salary of  Head of Data Science with Executive-Level is  158958.33333333334
+
+The Average Salary of  Data Specialist with Entry-Level is  0
+The Average Salary of  Data Specialist with Mid-Level is  0
+The Average Salary of  Data Specialist with Senior-Level is  165000.0
+The Average Salary of  Data Specialist with Executive-Level is  0
+
+The Average Salary of  Data Architect with Entry-Level is  0
+The Average Salary of  Data Architect with Mid-Level is  166666.66666666666
+The Average Salary of  Data Architect with Senior-Level is  182076.625
+The Average Salary of  Data Architect with Executive-Level is  0
+
+The Average Salary of  Finance Data Analyst with Entry-Level is  0
+The Average Salary of  Finance Data Analyst with Mid-Level is  0
+The Average Salary of  Finance Data Analyst with Senior-Level is  61896.0
+The Average Salary of  Finance Data Analyst with Executive-Level is  0
+
+The Average Salary of  Principal Data Analyst with Entry-Level is  0
+The Average Salary of  Principal Data Analyst with Mid-Level is  75000.0
+The Average Salary of  Principal Data Analyst with Senior-Level is  170000.0
+The Average Salary of  Principal Data Analyst with Executive-Level is  0
+
+The Average Salary of  Big Data Architect with Entry-Level is  0
+The Average Salary of  Big Data Architect with Mid-Level is  0
+The Average Salary of  Big Data Architect with Senior-Level is  99703.0
+The Average Salary of  Big Data Architect with Executive-Level is  0
+
+The Average Salary of  Staff Data Scientist with Entry-Level is  0
+The Average Salary of  Staff Data Scientist with Mid-Level is  0
+The Average Salary of  Staff Data Scientist with Senior-Level is  105000.0
+The Average Salary of  Staff Data Scientist with Executive-Level is  0
+
+The Average Salary of  Analytics Engineer with Entry-Level is  0
+The Average Salary of  Analytics Engineer with Mid-Level is  0
+The Average Salary of  Analytics Engineer with Senior-Level is  195000.0
+The Average Salary of  Analytics Engineer with Executive-Level is  155000.0
+
+The Average Salary of  ETL Developer with Entry-Level is  0
+The Average Salary of  ETL Developer with Mid-Level is  54957.0
+The Average Salary of  ETL Developer with Senior-Level is  0
+The Average Salary of  ETL Developer with Executive-Level is  0
+
+The Average Salary of  Head of Machine Learning with Entry-Level is  0
+The Average Salary of  Head of Machine Learning with Mid-Level is  0
+The Average Salary of  Head of Machine Learning with Senior-Level is  0
+The Average Salary of  Head of Machine Learning with Executive-Level is  79039.0
+
+The Average Salary of  NLP Engineer with Entry-Level is  0
+The Average Salary of  NLP Engineer with Mid-Level is  37236.0
+The Average Salary of  NLP Engineer with Senior-Level is  0
+The Average Salary of  NLP Engineer with Executive-Level is  0
+
+The Average Salary of  Lead Machine Learning Engineer with Entry-Level is  0
+The Average Salary of  Lead Machine Learning Engineer with Mid-Level is  0
+The Average Salary of  Lead Machine Learning Engineer with Senior-Level is  87932.0
+The Average Salary of  Lead Machine Learning Engineer with Executive-Level is  0
+
+The Average Salary of  Data Analytics Lead with Entry-Level is  0
+The Average Salary of  Data Analytics Lead with Mid-Level is  0
+The Average Salary of  Data Analytics Lead with Senior-Level is  405000.0
+The Average Salary of  Data Analytics Lead with Executive-Level is  0
+
+################################################################################################################
+
+Q5:
+The Job Title of the maximum Average Salary is :  Data Analytics Lead 405000.0
+The Job Title of the minimum Average Salary is :  3D Computer Vision Researcher 5409.0
+################################################################################################################
+
+Q6:
+Data Scientist
+--------------------------
+   2020 Annual Salary is :  1805381
+   2021 Annual Salary is :  3180228
+   2022 Annual Salary is :  10485251
+Change from 2020 to 2022 is:  8679870
+
+Machine Learning Scientist
+--------------------------
+   2020 Annual Salary is :  260000
+   2021 Annual Salary is :  582000
+   2022 Annual Salary is :  425300
+Change from 2020 to 2022 is:  165300
+
+Big Data Engineer
+--------------------------
+   2020 Annual Salary is :  293071
+   2021 Annual Salary is :  122721
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -293071
+
+Product Data Analyst
+--------------------------
+   2020 Annual Salary is :  26072
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -26072
+
+Machine Learning Engineer
+--------------------------
+   2020 Annual Salary is :  626949
+   2021 Annual Salary is :  1343002
+   2022 Annual Salary is :  2330135
+Change from 2020 to 2022 is:  1703186
+
+Data Analyst
+--------------------------
+   2020 Annual Salary is :  318831
+   2021 Annual Salary is :  1351592
+   2022 Annual Salary is :  7340204
+Change from 2020 to 2022 is:  7021373
+
+Lead Data Scientist
+--------------------------
+   2020 Annual Salary is :  305000
+   2021 Annual Salary is :  40570
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -305000
+
+Business Data Analyst
+--------------------------
+   2020 Annual Salary is :  235000
+   2021 Annual Salary is :  59102
+   2022 Annual Salary is :  89354
+Change from 2020 to 2022 is:  -145646
+
+Lead Data Engineer
+--------------------------
+   2020 Annual Salary is :  181000
+   2021 Annual Salary is :  539160
+   2022 Annual Salary is :  118187
+Change from 2020 to 2022 is:  -62813
+
+Lead Data Analyst
+--------------------------
+   2020 Annual Salary is :  87000
+   2021 Annual Salary is :  189609
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -87000
+
+Data Engineer
+--------------------------
+   2020 Annual Salary is :  969782
+   2021 Annual Salary is :  2662481
+   2022 Annual Salary is :  11247437
+Change from 2020 to 2022 is:  10277655
+
+Data Science Consultant
+--------------------------
+   2020 Annual Salary is :  108707
+   2021 Annual Salary is :  377238
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -108707
+
+BI Data Analyst
+--------------------------
+   2020 Annual Salary is :  98000
+   2021 Annual Salary is :  350531
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -98000
+
+Director of Data Science
+--------------------------
+   2020 Annual Salary is :  325000
+   2021 Annual Salary is :  843539
+   2022 Annual Salary is :  196979
+Change from 2020 to 2022 is:  -128021
+
+Research Scientist
+--------------------------
+   2020 Annual Salary is :  492000
+   2021 Annual Salary is :  830036
+   2022 Annual Salary is :  422276
+Change from 2020 to 2022 is:  -69724
+
+Machine Learning Manager
+--------------------------
+   2020 Annual Salary is :  117104
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -117104
+
+Data Engineering Manager
+--------------------------
+   2020 Annual Salary is :  139136
+   2021 Annual Salary is :  477000
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  -139136
+
+Machine Learning Infrastructure Engineer
+--------------------------
+   2020 Annual Salary is :  50180
+   2021 Annual Salary is :  195000
+   2022 Annual Salary is :  58255
+Change from 2020 to 2022 is:  8075
+
+ML Engineer
+--------------------------
+   2020 Annual Salary is :  15966
+   2021 Annual Salary is :  667075
+   2022 Annual Salary is :  21983
+Change from 2020 to 2022 is:  6017
+
+AI Scientist
+--------------------------
+   2020 Annual Salary is :  45896
+   2021 Annual Salary is :  97053
+   2022 Annual Salary is :  320000
+Change from 2020 to 2022 is:  274104
+
+Computer Vision Engineer
+--------------------------
+   2020 Annual Salary is :  60000
+   2021 Annual Salary is :  71516
+   2022 Annual Salary is :  135000
+Change from 2020 to 2022 is:  75000
+
+Principal Data Scientist
+--------------------------
+   2020 Annual Salary is :  148261
+   2021 Annual Salary is :  1195762
+   2022 Annual Salary is :  162674
+Change from 2020 to 2022 is:  14413
+
+Data Science Manager
+--------------------------
+   2020 Annual Salary is :  190200
+   2021 Annual Salary is :  858759
+   2022 Annual Salary is :  850983
+Change from 2020 to 2022 is:  660783
+
+Head of Data
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  567839
+   2022 Annual Salary is :  232974
+Change from 2020 to 2022 is:  232974
+
+3D Computer Vision Researcher
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  5409
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Data Analytics Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  239197
+   2022 Annual Salary is :  20000
+Change from 2020 to 2022 is:  20000
+
+Applied Data Scientist
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  164275
+   2022 Annual Salary is :  714000
+Change from 2020 to 2022 is:  714000
+
+Marketing Data Analyst
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  88654
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Cloud Data Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  249294
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Financial Data Analyst
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  450000
+   2022 Annual Salary is :  100000
+Change from 2020 to 2022 is:  100000
+
+Computer Vision Software Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  165746
+   2022 Annual Salary is :  150000
+Change from 2020 to 2022 is:  150000
+
+Director of Data Engineering
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  313476
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Data Science Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  167410
+   2022 Annual Salary is :  60000
+Change from 2020 to 2022 is:  60000
+
+Principal Data Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  985000
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Machine Learning Developer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  100000
+   2022 Annual Salary is :  157582
+Change from 2020 to 2022 is:  157582
+
+Applied Machine Learning Scientist
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  461400
+   2022 Annual Salary is :  106875
+Change from 2020 to 2022 is:  106875
+
+Data Analytics Manager
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  380000
+   2022 Annual Salary is :  509940
+Change from 2020 to 2022 is:  509940
+
+Head of Data Science
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  195000
+   2022 Annual Salary is :  391875
+Change from 2020 to 2022 is:  391875
+
+Data Specialist
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  165000
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Data Architect
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  500000
+   2022 Annual Salary is :  1456613
+Change from 2020 to 2022 is:  1456613
+
+Finance Data Analyst
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  61896
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Principal Data Analyst
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  170000
+   2022 Annual Salary is :  75000
+Change from 2020 to 2022 is:  75000
+
+Big Data Architect
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  99703
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Staff Data Scientist
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  105000
+   2022 Annual Salary is :  0
+Change from 2020 to 2022 is:  0
+
+Analytics Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  700000
+Change from 2020 to 2022 is:  700000
+
+ETL Developer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  109914
+Change from 2020 to 2022 is:  109914
+
+Head of Machine Learning
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  79039
+Change from 2020 to 2022 is:  79039
+
+NLP Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  37236
+Change from 2020 to 2022 is:  37236
+
+Lead Machine Learning Engineer
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  87932
+Change from 2020 to 2022 is:  87932
+
+Data Analytics Lead
+--------------------------
+   2020 Annual Salary is :  0
+   2021 Annual Salary is :  0
+   2022 Annual Salary is :  405000
+Change from 2020 to 2022 is:  405000
+
+################################################################################################################
+
+[8679870, 165300, -293071, -26072, 1703186, 7021373, -305000, -145646, -62813, -87000, 10277655, -108707, -98000, -128021, -69724, -117104, -139136, 8075, 6017, 274104, 75000, 14413, 660783, 232974, 0, 20000, 714000, 0, 0, 100000, 150000, 0, 60000, 0, 157582, 106875, 509940, 391875, 0, 1456613, 0, 75000, 0, 0, 700000, 109914, 79039, 37236, 87932, 405000]
+Q7:
+    ['Lead Data Scientist'] Experienced minimum Salary Change
+
+    ['Data Engineer'] Experienced maximum Salary Change
+################################################################################################################
+
+Q8:
+   The Average Salary for Ratio 0 is:  106354.62204724409
+   The Average Salary for Ratio 50 is:  80823.0303030303
+   The Average Salary for Ratio 100 is:  122457.45406824147
+   Entries Number is: 3
+################################################################################################################
+
+Q9:
+    ['IR', 'VN'] Pays the lowest Salary
+    ['RU'] Pays the highest Salary
+################################################################################################################
+
+Q10: Would you change your resume after analyzing this dataset?
+----------------------------------------------------------------
+     My Answer: Yes, I would

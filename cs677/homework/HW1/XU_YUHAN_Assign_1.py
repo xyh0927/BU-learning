@@ -80,22 +80,22 @@ with open(r'ds_salaries.csv') as f:
     for row in reader:
         if row[1] == '2020':
             numfor2020 += 1
-            sumSalaryfor2020 += int(row[5])
+            sumSalaryfor2020 += int(row[7])
         elif row[1] == '2021':
             numfor2021 += 1
-            sumSalaryfor2021 += int(row[5])
+            sumSalaryfor2021 += int(row[7])
         elif row[1] == '2022':
             numfor2022 += 1
-            sumSalaryfor2022 += int(row[5])
+            sumSalaryfor2022 += int(row[7])
         elif row[9] == "0":
             numforR0 += 1
-            sumSalary_RO += int(row[5])
+            sumSalary_RO += int(row[7])
         elif row[9] == "50":
             numforR50 += 1
-            sumSalary_R50 += int(row(5))
+            sumSalary_R50 += int(row(7))
         elif row[9] == "100":
             numforRF += 1
-            sumSalary_RF += int(row(5))
+            sumSalary_RF += int(row(7))
         else:
             break
 
@@ -167,16 +167,16 @@ with open(r'ds_salaries.csv') as f:
                 j = row[4]
                 if j == jt and row[2] == "EN":
                     num_EN += 1
-                    sumSalary_EN += int(row[5])
+                    sumSalary_EN += int(row[7])
                 elif j == jt and row[2] == "MI":
                     num_MI += 1
-                    sumSalary_MI += int(row[5])
+                    sumSalary_MI += int(row[7])
                 elif j == jt and row[2] == "SE":
                     num_SE += 1
-                    sumSalary_SE += int(row[5])
+                    sumSalary_SE += int(row[7])
                 elif j == jt and row[2] == "EX":
                     num_EX += 1
-                    sumSalary_EX += int(row[5])
+                    sumSalary_EX += int(row[7])
                 elif order == 607:
                     break
                 else:
@@ -234,7 +234,7 @@ with open(r'ds_salaries.csv') as f:
                 j = row[4]
                 if j == jt:
                     num += 1
-                    sumSalary += int(row[5])
+                    sumSalary += int(row[7])
                 elif order == 607:
                     break
                 else:
@@ -297,13 +297,13 @@ for i in range(len(job_title)):
             j = row[4]
             if j == jt and row[1] == "2020":
                 num_2020 += 1
-                sumSalary_2020 += int(row[5])
+                sumSalary_2020 += int(row[7])
             elif j == jt and row[1] == "2021":
                 num_2021 += 1
-                sumSalary_2021 += int(row[5])
+                sumSalary_2021 += int(row[7])
             elif j == jt and row[1] == "2022":
                 num_2022 += 1
-                sumSalary_2022 += int(row[5])
+                sumSalary_2022 += int(row[7])
             elif order == 607:
                 break
             else:
@@ -313,62 +313,25 @@ for i in range(len(job_title)):
 
 ############################################################################################################################
 ##### Analysis Part for Q6
-
+    changeSalary = sumSalary_2022 - sumSalary_2020
+    cgSalaryByjt.append(changeSalary)
     print("   2020 Annual Salary is : ", sumSalary_2020)
     print("   2021 Annual Salary is : ", sumSalary_2021)
     print("   2022 Annual Salary is : ", sumSalary_2022)
+    print("Change from 2020 to 2022 is: ", sumSalary_2022 - sumSalary_2020)
     print()
 
 print(
     "################################################################################################################")
 print()
 
-########################################################################################################################
-# File Read Part for Q7
-
-print("Q7: ")
-with open(r'ds_salaries.csv') as f:
-    reader = csv.reader(f)
-    headers = next(reader)
-
-    for row in reader:
-        job_title_rpt.append(row[4])
-
-    for i in job_title_rpt:
-        if i not in job_title:
-            job_title.append(i)
-
-    lenth = len(job_title)
-    for i in range(len(job_title)):
-        jt = job_title[i]
-        order = 0
-        num = 0
-        changeSalary = 0
-        with open(r'ds_salaries.csv') as f:
-            readerx = csv.reader(f)
-            headers = next(readerx)
-
-            for row in readerx:
-                order += 1
-                j = row[4]
-                if j == jt:
-                    num += 1
-                    changeSalary += int(row[7]) - int(row[5])
-
-                elif order == 607:
-                    break
-                else:
-                    continue
-            cgSalaryByjt.append(abs(changeSalary))
-            i += 1
-
 ############################################################################################################################
 ##### Analysis Part for Q7
 
+print(cgSalaryByjt)
+print("Q7: ")
 minChange = min(cgSalaryByjt)
-
 maxChange = max(cgSalaryByjt)
-
 numMIN = 0
 numMAX = 0
 min_index = []
@@ -396,8 +359,8 @@ print(
     "################################################################################################################")
 print()
 
-########################################################################################################################
-# File Read Part for Q7
+# ########################################################################################################################
+# File Read Part for Q8
 
 with open(r'ds_salaries.csv') as f:
     reader = csv.reader(f)
@@ -406,13 +369,13 @@ with open(r'ds_salaries.csv') as f:
     for row in reader:
         if row[9] == "0":
             numforR0 += 1
-            sumSalary_RO += int(row[5])
+            sumSalary_RO += int(row[7])
         elif row[9] == "50":
             numforR50 += 1
-            sumSalary_R50 += int(row[5])
+            sumSalary_R50 += int(row[7])
         elif row[9] == "100":
             numforRF += 1
-            sumSalary_RF += int(row[5])
+            sumSalary_RF += int(row[7])
         else:
             break
 
@@ -421,11 +384,9 @@ with open(r'ds_salaries.csv') as f:
 
 print("Q8:")
 print("   The Average Salary for Ratio 0 is: ", sumSalary_RO/numforR0)
-print("   The Entries for Ratio 0 is: ", numforR0)
 print("   The Average Salary for Ratio 50 is: ", sumSalary_R50/numforR50)
-print("   The Entries for Ratio 50 is: ", numforR50)
 print("   The Average Salary for Ratio 100 is: ", sumSalary_RF/numforRF)
-print("   The Entries for Ratio 100 is: ", numforRF)
+print("   Entries Number is: 3")
 print(
     "################################################################################################################")
 print()
@@ -463,7 +424,7 @@ for i in range(len(cp_location)):
             order += 1
             if row[10] == cl:
                 num += 1
-                sumSalary += int(row[5])
+                sumSalary += int(row[7])
             elif order == 607:
                 break
             else:
