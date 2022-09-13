@@ -288,6 +288,8 @@ for i in range(len(job_title)):
     sumSalary_2020 = 0
     sumSalary_2021 = 0
     sumSalary_2022 = 0
+    AveSalary_2020 = 0
+    AveSalary_2022 = 0
     with open(r'ds_salaries.csv') as f:
         readerx = csv.reader(f)
         headers = next(readerx)
@@ -312,12 +314,25 @@ for i in range(len(job_title)):
         i += 1
 
 ############################################################################################################################
-##### Analysis Part for Q6
-    changeSalary = sumSalary_2022 - sumSalary_2020
-    cgSalaryByjt.append(changeSalary)
-    print("   2020 Annual Salary is : ", sumSalary_2020)
+##### Analysis Part for Q6 Q7
+    print("   2020 Annual Salary is : ", sumSalary_2020, num_2020)
     print("   2021 Annual Salary is : ", sumSalary_2021)
-    print("   2022 Annual Salary is : ", sumSalary_2022)
+    print("   2022 Annual Salary is : ", sumSalary_2022, num_2022)
+
+    if num_2020 == 0 and num_2022 != 0:
+        AveSalary_2020 = 0
+        AveSalary_2022 = sumSalary_2022 / num_2022
+    elif num_2022 == 0 and num_2020 != 0:
+        AveSalary_2020 = sumSalary_2020 / num_2020
+        AveSalary_2022 = 0
+    elif num_2020 == 0 and num_2022 == 0:
+        AveSalary_2020 = 0
+        AveSalary_2022 = 0
+    else:
+        AveSalary_2020 = sumSalary_2020/num_2020
+        AveSalary_2022 = sumSalary_2022/num_2022
+    changeSalary = abs(AveSalary_2022 - AveSalary_2020)
+    cgSalaryByjt.append(changeSalary)
     print("Change from 2020 to 2022 is: ", sumSalary_2022 - sumSalary_2020)
     print()
 

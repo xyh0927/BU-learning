@@ -270,361 +270,361 @@ The Job Title of the minimum Average Salary is :  3D Computer Vision Researcher 
 Q6:
 Data Scientist
 --------------------------
-   2020 Annual Salary is :  1805381
+   2020 Annual Salary is :  1805381 21
    2021 Annual Salary is :  3180228
-   2022 Annual Salary is :  10485251
+   2022 Annual Salary is :  10485251 77
 Change from 2020 to 2022 is:  8679870
 
 Machine Learning Scientist
 --------------------------
-   2020 Annual Salary is :  260000
+   2020 Annual Salary is :  260000 1
    2021 Annual Salary is :  582000
-   2022 Annual Salary is :  425300
+   2022 Annual Salary is :  425300 3
 Change from 2020 to 2022 is:  165300
 
 Big Data Engineer
 --------------------------
-   2020 Annual Salary is :  293071
+   2020 Annual Salary is :  293071 3
    2021 Annual Salary is :  122721
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -293071
 
 Product Data Analyst
 --------------------------
-   2020 Annual Salary is :  26072
+   2020 Annual Salary is :  26072 2
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -26072
 
 Machine Learning Engineer
 --------------------------
-   2020 Annual Salary is :  626949
+   2020 Annual Salary is :  626949 5
    2021 Annual Salary is :  1343002
-   2022 Annual Salary is :  2330135
+   2022 Annual Salary is :  2330135 18
 Change from 2020 to 2022 is:  1703186
 
 Data Analyst
 --------------------------
-   2020 Annual Salary is :  318831
+   2020 Annual Salary is :  318831 7
    2021 Annual Salary is :  1351592
-   2022 Annual Salary is :  7340204
+   2022 Annual Salary is :  7340204 73
 Change from 2020 to 2022 is:  7021373
 
 Lead Data Scientist
 --------------------------
-   2020 Annual Salary is :  305000
+   2020 Annual Salary is :  305000 2
    2021 Annual Salary is :  40570
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -305000
 
 Business Data Analyst
 --------------------------
-   2020 Annual Salary is :  235000
+   2020 Annual Salary is :  235000 2
    2021 Annual Salary is :  59102
-   2022 Annual Salary is :  89354
+   2022 Annual Salary is :  89354 2
 Change from 2020 to 2022 is:  -145646
 
 Lead Data Engineer
 --------------------------
-   2020 Annual Salary is :  181000
+   2020 Annual Salary is :  181000 2
    2021 Annual Salary is :  539160
-   2022 Annual Salary is :  118187
+   2022 Annual Salary is :  118187 1
 Change from 2020 to 2022 is:  -62813
 
 Lead Data Analyst
 --------------------------
-   2020 Annual Salary is :  87000
+   2020 Annual Salary is :  87000 1
    2021 Annual Salary is :  189609
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -87000
 
 Data Engineer
 --------------------------
-   2020 Annual Salary is :  969782
+   2020 Annual Salary is :  969782 11
    2021 Annual Salary is :  2662481
-   2022 Annual Salary is :  11247437
+   2022 Annual Salary is :  11247437 89
 Change from 2020 to 2022 is:  10277655
 
 Data Science Consultant
 --------------------------
-   2020 Annual Salary is :  108707
+   2020 Annual Salary is :  108707 2
    2021 Annual Salary is :  377238
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -108707
 
 BI Data Analyst
 --------------------------
-   2020 Annual Salary is :  98000
+   2020 Annual Salary is :  98000 1
    2021 Annual Salary is :  350531
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -98000
 
 Director of Data Science
 --------------------------
-   2020 Annual Salary is :  325000
+   2020 Annual Salary is :  325000 1
    2021 Annual Salary is :  843539
-   2022 Annual Salary is :  196979
+   2022 Annual Salary is :  196979 1
 Change from 2020 to 2022 is:  -128021
 
 Research Scientist
 --------------------------
-   2020 Annual Salary is :  492000
+   2020 Annual Salary is :  492000 2
    2021 Annual Salary is :  830036
-   2022 Annual Salary is :  422276
+   2022 Annual Salary is :  422276 4
 Change from 2020 to 2022 is:  -69724
 
 Machine Learning Manager
 --------------------------
-   2020 Annual Salary is :  117104
+   2020 Annual Salary is :  117104 1
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -117104
 
 Data Engineering Manager
 --------------------------
-   2020 Annual Salary is :  139136
+   2020 Annual Salary is :  139136 2
    2021 Annual Salary is :  477000
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  -139136
 
 Machine Learning Infrastructure Engineer
 --------------------------
-   2020 Annual Salary is :  50180
+   2020 Annual Salary is :  50180 1
    2021 Annual Salary is :  195000
-   2022 Annual Salary is :  58255
+   2022 Annual Salary is :  58255 1
 Change from 2020 to 2022 is:  8075
 
 ML Engineer
 --------------------------
-   2020 Annual Salary is :  15966
+   2020 Annual Salary is :  15966 1
    2021 Annual Salary is :  667075
-   2022 Annual Salary is :  21983
+   2022 Annual Salary is :  21983 1
 Change from 2020 to 2022 is:  6017
 
 AI Scientist
 --------------------------
-   2020 Annual Salary is :  45896
+   2020 Annual Salary is :  45896 1
    2021 Annual Salary is :  97053
-   2022 Annual Salary is :  320000
+   2022 Annual Salary is :  320000 2
 Change from 2020 to 2022 is:  274104
 
 Computer Vision Engineer
 --------------------------
-   2020 Annual Salary is :  60000
+   2020 Annual Salary is :  60000 1
    2021 Annual Salary is :  71516
-   2022 Annual Salary is :  135000
+   2022 Annual Salary is :  135000 2
 Change from 2020 to 2022 is:  75000
 
 Principal Data Scientist
 --------------------------
-   2020 Annual Salary is :  148261
+   2020 Annual Salary is :  148261 1
    2021 Annual Salary is :  1195762
-   2022 Annual Salary is :  162674
+   2022 Annual Salary is :  162674 1
 Change from 2020 to 2022 is:  14413
 
 Data Science Manager
 --------------------------
-   2020 Annual Salary is :  190200
+   2020 Annual Salary is :  190200 1
    2021 Annual Salary is :  858759
-   2022 Annual Salary is :  850983
+   2022 Annual Salary is :  850983 5
 Change from 2020 to 2022 is:  660783
 
 Head of Data
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  567839
-   2022 Annual Salary is :  232974
+   2022 Annual Salary is :  232974 2
 Change from 2020 to 2022 is:  232974
 
 3D Computer Vision Researcher
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  5409
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Data Analytics Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  239197
-   2022 Annual Salary is :  20000
+   2022 Annual Salary is :  20000 1
 Change from 2020 to 2022 is:  20000
 
 Applied Data Scientist
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  164275
-   2022 Annual Salary is :  714000
+   2022 Annual Salary is :  714000 3
 Change from 2020 to 2022 is:  714000
 
 Marketing Data Analyst
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  88654
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Cloud Data Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  249294
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Financial Data Analyst
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  450000
-   2022 Annual Salary is :  100000
+   2022 Annual Salary is :  100000 1
 Change from 2020 to 2022 is:  100000
 
 Computer Vision Software Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  165746
-   2022 Annual Salary is :  150000
+   2022 Annual Salary is :  150000 1
 Change from 2020 to 2022 is:  150000
 
 Director of Data Engineering
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  313476
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Data Science Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  167410
-   2022 Annual Salary is :  60000
+   2022 Annual Salary is :  60000 1
 Change from 2020 to 2022 is:  60000
 
 Principal Data Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  985000
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Machine Learning Developer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  100000
-   2022 Annual Salary is :  157582
+   2022 Annual Salary is :  157582 2
 Change from 2020 to 2022 is:  157582
 
 Applied Machine Learning Scientist
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  461400
-   2022 Annual Salary is :  106875
+   2022 Annual Salary is :  106875 2
 Change from 2020 to 2022 is:  106875
 
 Data Analytics Manager
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  380000
-   2022 Annual Salary is :  509940
+   2022 Annual Salary is :  509940 4
 Change from 2020 to 2022 is:  509940
 
 Head of Data Science
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  195000
-   2022 Annual Salary is :  391875
+   2022 Annual Salary is :  391875 2
 Change from 2020 to 2022 is:  391875
 
 Data Specialist
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  165000
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Data Architect
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  500000
-   2022 Annual Salary is :  1456613
+   2022 Annual Salary is :  1456613 8
 Change from 2020 to 2022 is:  1456613
 
 Finance Data Analyst
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  61896
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Principal Data Analyst
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  170000
-   2022 Annual Salary is :  75000
+   2022 Annual Salary is :  75000 1
 Change from 2020 to 2022 is:  75000
 
 Big Data Architect
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  99703
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Staff Data Scientist
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  105000
-   2022 Annual Salary is :  0
+   2022 Annual Salary is :  0 0
 Change from 2020 to 2022 is:  0
 
 Analytics Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  700000
+   2022 Annual Salary is :  700000 4
 Change from 2020 to 2022 is:  700000
 
 ETL Developer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  109914
+   2022 Annual Salary is :  109914 2
 Change from 2020 to 2022 is:  109914
 
 Head of Machine Learning
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  79039
+   2022 Annual Salary is :  79039 1
 Change from 2020 to 2022 is:  79039
 
 NLP Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  37236
+   2022 Annual Salary is :  37236 1
 Change from 2020 to 2022 is:  37236
 
 Lead Machine Learning Engineer
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  87932
+   2022 Annual Salary is :  87932 1
 Change from 2020 to 2022 is:  87932
 
 Data Analytics Lead
 --------------------------
-   2020 Annual Salary is :  0
+   2020 Annual Salary is :  0 0
    2021 Annual Salary is :  0
-   2022 Annual Salary is :  405000
+   2022 Annual Salary is :  405000 1
 Change from 2020 to 2022 is:  405000
 
 ################################################################################################################
 
-[8679870, 165300, -293071, -26072, 1703186, 7021373, -305000, -145646, -62813, -87000, 10277655, -108707, -98000, -128021, -69724, -117104, -139136, 8075, 6017, 274104, 75000, 14413, 660783, 232974, 0, 20000, 714000, 0, 0, 100000, 150000, 0, 60000, 0, 157582, 106875, 509940, 391875, 0, 1456613, 0, 75000, 0, 0, 700000, 109914, 79039, 37236, 87932, 405000]
+[50201.567099567095, 118233.33333333334, 97690.33333333333, 13036.0, 4062.144444444435, 55003.454011741684, 152500.0, 72823.0, 27687.0, 87000.0, 38213.69662921349, 54353.5, 98000.0, 128021.0, 140431.0, 117104.0, 69568.0, 8075.0, 6017.0, 114104.0, 7500.0, 14413.0, 20003.399999999994, 116487.0, 0, 20000.0, 238000.0, 0, 0, 100000.0, 150000.0, 0, 60000.0, 0, 78791.0, 53437.5, 127485.0, 195937.5, 0, 182076.625, 0, 75000.0, 0, 0, 175000.0, 54957.0, 79039.0, 37236.0, 87932.0, 405000.0]
 Q7:
-    ['Lead Data Scientist'] Experienced minimum Salary Change
+    ['3D Computer Vision Researcher', 'Marketing Data Analyst', 'Cloud Data Engineer', 'Director of Data Engineering', 'Principal Data Engineer', 'Data Specialist', 'Finance Data Analyst', 'Big Data Architect', 'Staff Data Scientist'] Experienced minimum Salary Change
 
-    ['Data Engineer'] Experienced maximum Salary Change
+    ['Data Analytics Lead'] Experienced maximum Salary Change
 ################################################################################################################
 
 Q8:
