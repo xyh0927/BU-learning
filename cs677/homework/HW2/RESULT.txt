@@ -1,0 +1,295 @@
+Q2:
+------------------------------------------------------------------------------------------
+                                salary_in_usd  work_year
+In 2020, the Average Salary is   95813.000000     2020.0
+In 2021, the Average Salary is   99853.792627     2021.0
+In 2022, the Average Salary is  124522.006289     2022.0
+###############################################################################################################################
+
+Q3:
+------------------------------------------------------------------------------------------
+                            work_year  salary_in_usd
+The highest salary year is     2022.0  124522.006289
+                           work_year  salary_in_usd
+The lowest salary year is     2020.0        95813.0
+###############################################################################################################################
+
+Q4:
+------------------------------------------------------------------------------------------
+The mean Salary of each Job Title with EN Entry-level:
+                                    salary_in_usd
+job_title
+AI Scientist                         21987.250000
+Applied Data Scientist              110037.000000
+Applied Machine Learning Scientist   31875.000000
+BI Data Analyst                      32136.000000
+Big Data Engineer                    30703.333333
+Business Data Analyst                79551.000000
+Computer Vision Engineer             54536.333333
+Computer Vision Software Engineer   110000.000000
+Data Analyst                         53960.666667
+Data Analytics Engineer              20000.000000
+Data Engineer                        58933.500000
+Data Science Consultant              62640.800000
+Data Scientist                       55330.909091
+Financial Data Analyst              100000.000000
+ML Engineer                          18974.500000
+Machine Learning Developer          100000.000000
+Machine Learning Engineer            86996.333333
+Machine Learning Scientist          225000.000000
+Research Scientist                   86132.000000
+
+The mean Salary of each Job Title with Junior MI Mid-level:
+                                          salary_in_usd
+job_title
+3D Computer Vision Researcher               5409.000000
+AI Scientist                              160000.000000
+Applied Data Scientist                    105619.000000
+Applied Machine Learning Scientist        178800.000000
+BI Data Analyst                            78086.333333
+Big Data Engineer                          33537.000000
+Business Data Analyst                      74784.666667
+Cloud Data Engineer                        89294.000000
+Computer Vision Software Engineer          95746.000000
+Data Analyst                               71699.206897
+Data Analytics Engineer                   110000.000000
+Data Architect                            166666.666667
+Data Engineer                              85985.660377
+Data Engineering Manager                   59303.000000
+Data Science Consultant                   103000.000000
+Data Science Engineer                      40189.000000
+Data Science Manager                      200000.000000
+Data Scientist                             82039.133333
+ETL Developer                              54957.000000
+Financial Data Analyst                    450000.000000
+Head of Data                               32974.000000
+Head of Data Science                      110000.000000
+Lead Data Analyst                          53304.500000
+Lead Data Engineer                         56000.000000
+Lead Data Scientist                       115000.000000
+ML Engineer                               137025.000000
+Machine Learning Developer                 78791.000000
+Machine Learning Engineer                  74466.583333
+Machine Learning Infrastructure Engineer   54217.500000
+Machine Learning Scientist                109325.000000
+NLP Engineer                               37236.000000
+Principal Data Analyst                     75000.000000
+Principal Data Scientist                  151000.000000
+Product Data Analyst                       13036.000000
+Research Scientist                        136498.142857
+
+The mean Salary of each Job Title with Intermediate SE Senior-level:
+                                          salary_in_usd
+job_title
+AI Scientist                               55000.000000
+Analytics Engineer                        195000.000000
+Applied Data Scientist                    278500.000000
+Big Data Architect                         99703.000000
+Big Data Engineer                         111535.500000
+Cloud Data Engineer                       160000.000000
+Computer Vision Engineer                   34302.333333
+Data Analyst                              111922.629630
+Data Analytics Engineer                    64598.500000
+Data Analytics Lead                       405000.000000
+Data Analytics Manager                    127134.285714
+Data Architect                            182076.625000
+Data Engineer                             137035.841270
+Data Engineering Manager                  159000.000000
+Data Science Engineer                      93610.500000
+Data Science Manager                      149994.200000
+Data Scientist                            152971.016393
+Data Specialist                           165000.000000
+Director of Data Engineering              156738.000000
+Director of Data Science                  168000.000000
+Finance Data Analyst                       61896.000000
+Head of Data                              151419.500000
+Lead Data Analyst                         170000.000000
+Lead Data Engineer                        166040.000000
+Lead Data Scientist                       115285.000000
+Lead Machine Learning Engineer             87932.000000
+ML Engineer                               256000.000000
+Machine Learning Developer                 78791.000000
+Machine Learning Engineer                 131176.000000
+Machine Learning Infrastructure Engineer  195000.000000
+Machine Learning Manager                  117104.000000
+Machine Learning Scientist                201666.666667
+Marketing Data Analyst                     88654.000000
+Principal Data Analyst                    170000.000000
+Principal Data Engineer                   192500.000000
+Principal Data Scientist                  187939.400000
+Research Scientist                         88859.400000
+Staff Data Scientist                      105000.000000
+
+The mean Salary of each Job Title with Expert EX Executive-level:
+                          salary_in_usd
+job_title
+Analytics Engineer        155000.000000
+BI Data Analyst           150000.000000
+Data Analyst              120000.000000
+Data Engineer             245500.000000
+Data Engineering Manager   79833.000000
+Data Science Consultant    69741.000000
+Director of Data Science  199586.333333
+Head of Data              232500.000000
+Head of Data Science      158958.333333
+Head of Machine Learning   79039.000000
+Lead Data Engineer        118187.000000
+Principal Data Engineer   600000.000000
+Principal Data Scientist  416000.000000
+###############################################################################################################################
+
+Q5:
+------------------------------------------------------------------------------------------
+The Job Title of the maximum Average Salary is ('Data Analytics Lead', 'salary_in_usd') 405000.0
+The Job Title of the minimum Average Salary is ('3D Computer Vision Researcher', 'salary_in_usd') 5409.0
+###############################################################################################################################
+
+Q6:
+------------------------------------------------------------------------------------------
+The Annual Salary for each job title in 2020:
+                                           salary_in_usd
+job_title
+AI Scientist                                      45896
+BI Data Analyst                                   98000
+Big Data Engineer                                293071
+Business Data Analyst                            235000
+Computer Vision Engineer                          60000
+Data Analyst                                     318831
+Data Engineer                                    969782
+Data Engineering Manager                         139136
+Data Science Consultant                          108707
+Data Science Manager                             190200
+Data Scientist                                  1805381
+Director of Data Science                         325000
+Lead Data Analyst                                 87000
+Lead Data Engineer                               181000
+Lead Data Scientist                              305000
+ML Engineer                                       15966
+Machine Learning Engineer                        626949
+Machine Learning Infrastructure Engineer          50180
+Machine Learning Manager                         117104
+Machine Learning Scientist                       260000
+Principal Data Scientist                         148261
+Product Data Analyst                              26072
+Research Scientist                               492000
+
+The Annual Salary for each job title in 2021:
+                                           salary_in_usd
+job_title
+3D Computer Vision Researcher                      5409
+AI Scientist                                      97053
+Applied Data Scientist                           164275
+Applied Machine Learning Scientist               461400
+BI Data Analyst                                  350531
+Big Data Architect                                99703
+Big Data Engineer                                122721
+Business Data Analyst                             59102
+Cloud Data Engineer                              249294
+Computer Vision Engineer                          71516
+Computer Vision Software Engineer                165746
+Data Analyst                                    1351592
+Data Analytics Engineer                          239197
+Data Analytics Manager                           380000
+Data Architect                                   500000
+Data Engineer                                   2662481
+Data Engineering Manager                         477000
+Data Science Consultant                          377238
+Data Science Engineer                            167410
+Data Science Manager                             858759
+Data Scientist                                  3180228
+Data Specialist                                  165000
+Director of Data Engineering                     313476
+Director of Data Science                         843539
+Finance Data Analyst                              61896
+Financial Data Analyst                           450000
+Head of Data                                     567839
+Head of Data Science                             195000
+Lead Data Analyst                                189609
+Lead Data Engineer                               539160
+Lead Data Scientist                               40570
+ML Engineer                                      667075
+Machine Learning Developer                       100000
+Machine Learning Engineer                       1343002
+Machine Learning Infrastructure Engineer         195000
+Machine Learning Scientist                       582000
+Marketing Data Analyst                            88654
+Principal Data Analyst                           170000
+Principal Data Engineer                          985000
+Principal Data Scientist                        1195762
+Research Scientist                               830036
+Staff Data Scientist                             105000
+
+The Annual Salary for each job title in 2022:
+                                           salary_in_usd
+job_title
+AI Scientist                                     320000
+Analytics Engineer                               700000
+Applied Data Scientist                           714000
+Applied Machine Learning Scientist               106875
+Business Data Analyst                             89354
+Computer Vision Engineer                         135000
+Computer Vision Software Engineer                150000
+Data Analyst                                    7340204
+Data Analytics Engineer                           20000
+Data Analytics Lead                              405000
+Data Analytics Manager                           509940
+Data Architect                                  1456613
+Data Engineer                                  11247437
+Data Science Engineer                             60000
+Data Science Manager                             850983
+Data Scientist                                 10485251
+Director of Data Science                         196979
+ETL Developer                                    109914
+Financial Data Analyst                           100000
+Head of Data                                     232974
+Head of Data Science                             391875
+Head of Machine Learning                          79039
+Lead Data Engineer                               118187
+Lead Machine Learning Engineer                    87932
+ML Engineer                                       21983
+Machine Learning Developer                       157582
+Machine Learning Engineer                       2330135
+Machine Learning Infrastructure Engineer          58255
+Machine Learning Scientist                       425300
+NLP Engineer                                      37236
+Principal Data Analyst                            75000
+Principal Data Scientist                         162674
+Research Scientist                               422276
+
+###############################################################################################################################
+
+Q7:
+------------------------------------------------------------------------------------------
+3D Computer Vision Researcher Experienced minimum Salary Change
+Data Analytics Lead Experienced maximum Salary Change
+###############################################################################################################################
+
+Q8:
+------------------------------------------------------------------------------------------
+The Average Salaries For Each Remote Ratio are listed below:
+              salary_in_usd
+remote_ratio
+0             106354.622047
+50             80823.030303
+100           122457.454068
+
+The entries for Remote Ration 0 is 127
+The entries for Remote Ration 50 is 99
+The entries for Remote Ration 100 is 381
+###############################################################################################################################
+
+Q9:
+------------------------------------------------------------------------------------------
+The Location where pays the hightest Salary is:  ('RU', 'salary_in_usd') salary_in_usd    157500.0
+dtype: float64
+
+The Location where pays the lowest Salary is:  ('IR', 'salary_in_usd') salary_in_usd    4000.0
+dtype: float64
+###############################################################################################################################
+
+Q10:
+------------------------------------------------------------------------------------------
+Q: Would you change your resume after analyzing this dataset?
+----------------------------------------------------------------
+     My Answer: Yes, I would
+###############################################################################################################################
