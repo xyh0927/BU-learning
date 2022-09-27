@@ -13,12 +13,12 @@ import numpy as np
 import pandas as pd
 import yfinance as yf
 
-ticker='MSFT'
+ticker='PINS'
 input_dir = os.getcwd()
 output_file = os.path.join(input_dir, ticker + '_weekly_return_volatility.csv')
 
 try:
-    df = yf.download(ticker, start="2017-01-01", end="2021-12-31")
+    df = yf.download(ticker, start="2021-09-26", end="2022-09-26")
     df['Return'] = df['Adj Close'].pct_change()
     df['Return'].fillna(0, inplace = True)
     df['Return'] = 100.0 * df['Return']

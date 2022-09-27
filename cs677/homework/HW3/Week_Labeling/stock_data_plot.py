@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-ticker="FB"
+ticker="PINS"
 
 input_dir = os.getcwd()
 root_dir = os.getcwd()
@@ -18,8 +18,8 @@ ticker_file = os.path.join(input_dir, ticker + '.csv')
 
 try:   
     df = pd.read_csv(ticker_file)
-    start_date='2017-01-21'; 
-    end_date='2017-01-29'
+    start_date='2021-09-26';
+    end_date='2022-09-26'
     df = df[df['Date'] >= start_date]
     df = df[df['Date'] <= end_date]
     fig = plt.figure()

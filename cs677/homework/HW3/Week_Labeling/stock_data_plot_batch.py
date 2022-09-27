@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-ticker="MSFT"
+ticker="PINS"
 
 input_dir = os.getcwd()
 root_dir = os.getcwd()
